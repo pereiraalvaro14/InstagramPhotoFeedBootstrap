@@ -23,3 +23,18 @@ img {
 .panelSuperior {
     background-color: lightgray;
 }
+.modal-footer {
+    display: block !important;
+}
+.iconos {
+    float: left;
+}
+.botones {
+    float: right;
+}
+.nav-tabs {
+    border: none !important;
+}
+.col-9 {
+    padding: 10px;
+}
